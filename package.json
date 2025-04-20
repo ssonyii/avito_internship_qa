@@ -1,0 +1,25 @@
+{
+  "name": "avito_internship_qa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssonyii/avito_internship_qa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssonyii/avito_internship_qa/issues"
+  },
+  "homepage": "https://github.com/ssonyii/avito_internship_qa#readme",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "jest": "^29.7.0",
+    "save-dev": "^0.0.1-security"
+  }
+}
